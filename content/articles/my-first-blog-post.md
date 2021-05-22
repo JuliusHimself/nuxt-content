@@ -1,5 +1,5 @@
 ---
-title: My First Blog Post
+title: My First Blog Post on dev only!
 description: Learning how to use @nuxt/content to create a blog
 img: https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60
 alt: my first blog post
@@ -8,11 +8,10 @@ author:
   bio: All about Peter and what he does and where he works
   img: https://images.unsplash.com/photo-1533636721434-0e2d61030955?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80
 tags:
-  - nuxtjs
-  - javascript
+- nuxtjs
+- javascript
+
 ---
-
-
 ## This is a heading
 
 This is some more info
@@ -49,6 +48,3 @@ This is some more info
 ## This is another heading
 
 This is some more info
-
-
-

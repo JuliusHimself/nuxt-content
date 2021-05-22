@@ -9,11 +9,6 @@ sections:
   label: Articles
   create: all
   match: "**/*"
-- type: directory
-  path: content/articles
-  label: Articles
-  create: all
-  match: "**/*"
 upload_dir: static
 public_path: "/static"
 front_matter_path: ''
